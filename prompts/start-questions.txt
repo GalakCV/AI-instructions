@@ -1,0 +1,7 @@
+I want to understand [vulnerability or technical question]. This request is for [conceptual explanation / local laboratory exercise / remediation review].
+
+My current understanding is [brief explanation].
+
+Explain the mechanism, necessary preconditions, common misconceptions, and how to distinguish a real vulnerability from a false positive. Use a small local example when helpful, and cite primary sources for current claims.
+
+My specific question is: [question].
