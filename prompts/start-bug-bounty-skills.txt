@@ -1,0 +1,7 @@
+Help me create a Strix skill for [purpose].
+
+I will provide [existing skill, loader documentation, or reference files].
+Expected inputs are [policy, recon results, controlled accounts, traffic].
+The desired output is [investigation plan, validated findings, or triage report].
+
+First check compatibility with the supplied Strix format, then produce the Markdown skill with explicit validation criteria, scope handling, stop conditions, and evidence requirements. Flag missing context rather than assuming it.
